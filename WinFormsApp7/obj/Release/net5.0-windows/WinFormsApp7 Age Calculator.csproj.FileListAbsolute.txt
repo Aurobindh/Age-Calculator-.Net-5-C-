@@ -1,0 +1,23 @@
+D:\VS projects\WinFormsApp7 Age Calculator\WinFormsApp7\obj\Release\net5.0-windows\WinFormsApp7 Age Calculator.csproj.AssemblyReference.cache
+D:\VS projects\WinFormsApp7 Age Calculator\WinFormsApp7\obj\Release\net5.0-windows\WinFormsApp7.Form1.resources
+D:\VS projects\WinFormsApp7 Age Calculator\WinFormsApp7\obj\Release\net5.0-windows\WinFormsApp7 Age Calculator.csproj.GenerateResource.cache
+D:\VS projects\WinFormsApp7 Age Calculator\WinFormsApp7\obj\Release\net5.0-windows\WinFormsApp7 Age Calculator.GeneratedMSBuildEditorConfig.editorconfig
+D:\VS projects\WinFormsApp7 Age Calculator\WinFormsApp7\obj\Release\net5.0-windows\WinFormsApp7 Age Calculator.AssemblyInfoInputs.cache
+D:\VS projects\WinFormsApp7 Age Calculator\WinFormsApp7\obj\Release\net5.0-windows\WinFormsApp7 Age Calculator.AssemblyInfo.cs
+D:\VS projects\WinFormsApp7 Age Calculator\WinFormsApp7\obj\Release\net5.0-windows\WinFormsApp7 Age Calculator.csproj.CoreCompileInputs.cache
+D:\VS projects\WinFormsApp7 Age Calculator\WinFormsApp7\obj\Release\net5.0-windows\WinFormsApp7 Age Calculator.genruntimeconfig.cache
+D:\VS projects\WinFormsApp7 Age Calculator\WinFormsApp7\bin\Release\net5.0-windows\Age Calculator.exe
+D:\VS projects\WinFormsApp7 Age Calculator\WinFormsApp7\bin\Release\net5.0-windows\Age Calculator.deps.json
+D:\VS projects\WinFormsApp7 Age Calculator\WinFormsApp7\bin\Release\net5.0-windows\Age Calculator.runtimeconfig.json
+D:\VS projects\WinFormsApp7 Age Calculator\WinFormsApp7\bin\Release\net5.0-windows\Age Calculator.runtimeconfig.dev.json
+D:\VS projects\WinFormsApp7 Age Calculator\WinFormsApp7\bin\Release\net5.0-windows\Age Calculator.dll
+D:\VS projects\WinFormsApp7 Age Calculator\WinFormsApp7\bin\Release\net5.0-windows\ref\Age Calculator.dll
+D:\VS projects\WinFormsApp7 Age Calculator\WinFormsApp7\bin\Release\net5.0-windows\Age Calculator.pdb
+D:\VS projects\WinFormsApp7 Age Calculator\WinFormsApp7\obj\Release\net5.0-windows\Age_Calculator.Properties.Resources.resources
+D:\VS projects\WinFormsApp7 Age Calculator\WinFormsApp7\obj\Release\net5.0-windows\Age Calculator.dll
+D:\VS projects\WinFormsApp7 Age Calculator\WinFormsApp7\obj\Release\net5.0-windows\ref\Age Calculator.dll
+D:\VS projects\WinFormsApp7 Age Calculator\WinFormsApp7\obj\Release\net5.0-windows\Age Calculator.pdb
+D:\VS projects\WinFormsApp7 Age Calculator\WinFormsApp7\bin\Release\net5.0-windows\Age Calculator.dll.manifest
+D:\VS projects\WinFormsApp7 Age Calculator\WinFormsApp7\bin\Release\net5.0-windows\Age Calculator.application
+D:\VS projects\WinFormsApp7 Age Calculator\WinFormsApp7\obj\Release\net5.0-windows\Age Calculator.dll.manifest
+D:\VS projects\WinFormsApp7 Age Calculator\WinFormsApp7\obj\Release\net5.0-windows\Age Calculator.application
